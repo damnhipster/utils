@@ -1,0 +1,20 @@
+{
+    "name": "bskyb-utils",
+    "version": "0.0.0",
+    "homepage": "https://github.com/damnhipster/utils",
+    "authors": [
+        "Hem Brahmbhatt <hamant.brahmbhatt@gmail.com>"
+    ],
+    "description": "utils",
+    "main": "dist",
+    "license": "BSD3",
+    "ignore": [
+        "**/*",
+        "!dist/**/*",
+        "!src/**/*"
+    ],
+    "devDependencies": {
+        "bskyb-colours": "~0.1.0",
+        "bskyb-typography": "~0.1.0"
+    }
+}
